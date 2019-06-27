@@ -8,5 +8,5 @@ spring:
             #client-secret: KZScMyzd0Y7TyjrKqprntdMd
   data:
     mongodb:
-      uri: mongodb+srv://ajerds:Dd2-Y5F-wA6-hv2@cluster0-knvni.gcp.mongodb.net/test?retryWrites=true&w=majority
+      uri: mongodb+srv://ajerds:qyzgaz-pukfaw-deDpu0@cluster0-knvni.gcp.mongodb.net/test?retryWrites=true&w=majority
       database: heBREWS
