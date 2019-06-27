@@ -1,0 +1,12 @@
+spring:
+  #security:
+    #oauth2:
+      #client:
+        #registration:
+          #google:
+            #client-id:
+            #client-secret:
+  data:
+    mongodb:
+      uri: mongodb+srv://@cluster0-knvni.gcp.mongodb.net/test?retryWrites=true&w=majority
+      database: heBREWS
