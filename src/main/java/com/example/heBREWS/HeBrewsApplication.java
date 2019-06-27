@@ -1,7 +1,6 @@
 package com.example.heBREWS;
 
-import com.example.heBREWS.mongo.UserRepository;
-import com.example.heBREWS.mongo.User;
+import com.example.heBREWS.mongo.*;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
