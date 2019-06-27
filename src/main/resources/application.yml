@@ -4,9 +4,9 @@ spring:
       #client:
         #registration:
           #google:
-            #client-id: 513607975763-ckfoe9j1hc73feh78svnr1jcrlnao4g3.apps.googleusercontent.com
-            #client-secret: KZScMyzd0Y7TyjrKqprntdMd
+            #client-id:
+            #client-secret:
   data:
     mongodb:
-      uri: mongodb+srv://ajerds:qyzgaz-pukfaw-deDpu0@cluster0-knvni.gcp.mongodb.net/test?retryWrites=true&w=majority
+      uri: mongodb+srv://@cluster0-knvni.gcp.mongodb.net/test?retryWrites=true&w=majority
       database: heBREWS
