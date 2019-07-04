@@ -8,5 +8,5 @@ spring:
             #client-secret:
   data:
     mongodb:
-      uri: mongodb+srv://@cluster0-knvni.gcp.mongodb.net/test?retryWrites=true&w=majority
-      database: heBREWS
+      uri:
+      database: 
