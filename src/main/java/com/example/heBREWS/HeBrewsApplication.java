@@ -21,7 +21,7 @@ public class HeBrewsApplication {
     CommandLineRunner init(UserRepository userRepository) {
         return args -> {
             Stream.of("John", "Julie", "Jennifer", "Helen", "Rachel").forEach(name -> {
-                User user = new User(name, "Erdmann", name.toLowerCase() + "@domain.com");
+                User user = new User(name, "Erdmann", name.toLowerCase() + "@domain.com", "9526935042");
                 userRepository.save(user);
             });
             userRepository.findAll().forEach(System.out::println);
